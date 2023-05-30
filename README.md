@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DS-Radhika
-- 👀 I’m currently building an Ed-tech Application called NetPractice which will eventually make learning better. :)
+-  Hi, I’m @DS-Radhika
+-  I’m currently building an Ed-tech Application called NetPractice which will eventually make learning better. :)
 
 
 <!---
